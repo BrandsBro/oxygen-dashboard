@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482948449877",
+    "project_id": "xygen-dashboard",
+    "storage_bucket": "xygen-dashboard.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482948449877:android:80d4adc0fed9ba3086f6dc",
+        "android_client_info": {
+          "package_name": "com.example.oxygen_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Zi-qHCozRXixtXxP4nnjXLyzhQqoXAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
